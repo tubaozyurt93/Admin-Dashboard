@@ -4,4 +4,5 @@
 
 # Start
 npm start
-![image](https://user-images.githubusercontent.com/12809979/141105947-77a181e1-eca8-4d94-a31e-8c3298213ff7.png)
+![Adsız](https://user-images.githubusercontent.com/12809979/141106446-bf366e1d-7814-45b8-943f-a1d2ee65ec87.png)
+
